@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **React JS and Mongo DB to be able to develop MERN stack apps**
 
-- 👨‍💻 All of my projects are available at [coming soon :)](coming soon :))
+- 👨‍💻 All of my projects are available at [coming soon :)]
 
 - 💬 Ask me about **web development, frontend, flask**
 
 - 📫 How to reach me **pvn.24.offi@gmail.com**
 
-- ⚡ Fun fact: **I play CS:GO(Gandalf The Grey) and Valorant(B1GFU7 #7294)**
+- ⚡ **I play CS:GO(Gandalf The Grey) and Valorant(B1GFU7 #7294)**
 
 <br>
 <h3 align="left">CONNECT WITH ME</h3>
