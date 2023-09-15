@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pavanananda Bhat</h1>
-<h3 align="center">A passionate frontend developer from Bangalore, India. I pursuing a B. Tech degree at Dayananda Sagar University. I am also interested in Game development but have not done much work in that field.</h3>
+![Web-Developer-Header](https://itchronicles.com/wp-content/uploads/2021/04/Optimized-Illustration-from-Adobe-Stock-for-ITC-Post-on-AI-in-Game-Development-1536x864.jpeg)
+
+<h1 align="center">Hi 👋, I'm Pavanananda Bhat </h1>
+<h3 align="center">A passionate web developer from Bangalore, India. I am also interested in game development. I am pursuing a B. Tech degree at Dayananda Sagar University.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pavanbhat007&label=Profile%20views&color=0e75b6&style=flat" alt="pavanbhat007" /> </p>
-
-<h3>TROPHIES</h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pavanbhat007&theme=discord&no-bg=true&no-frame=true&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <h3>ABOUT ME</h3>
 
@@ -41,3 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanbhat007&show_icons=true&theme=radical&hide_border=true&locale=en" alt="pavanbhat007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanbhat007&theme=dark" alt="pavanbhat007" /></p>
+
+<h3>TROPHIES</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pavanbhat007&theme=discord&no-bg=true&no-frame=true&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
