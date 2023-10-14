@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pvn.24.offi@gmail.com**
 
-- ⚡ **I play CS:GO(Gandalf The Grey) and Valorant(B1GFU7 #7294)**
+- ⚡ **I play CS:GO(Gandalf The Grey) and Valorant(P A V A N #BHAT)**
 
 <br>
 <h3 align="left">CONNECT WITH ME</h3>
