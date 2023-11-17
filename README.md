@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS and Mongo DB to be able to develop MERN stack apps**
 
-- 👨‍💻 All of my projects are available at [coming soon :)]
+- 👨‍💻 All of my projects are available [here](https://brilliant-trifle-88d9ec.netlify.app/)
 
 - 💬 Ask me about **web development, frontend, flask**
 
